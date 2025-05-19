@@ -82,14 +82,4 @@ To run the smart chatbot, you need to start both the FastAPI backend and the Str
 
     The Streamlit app will open in your web browser. You can now interact with the smart chatbot through the web interface.
 
-## Contributing
 
-If you would like to contribute to this project, please feel free to fork the repository and submit a pull request.
-
-## License
-
-[Include license information here if applicable]
-
-## Acknowledgements
-
-[Include any acknowledgements here]
