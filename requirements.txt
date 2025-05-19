@@ -1,0 +1,8 @@
+langchain
+langgraph
+fastapi
+uvicorn
+streamlit
+google-generativeai
+faiss-cpu
+langchain-community
